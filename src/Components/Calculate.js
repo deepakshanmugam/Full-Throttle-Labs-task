@@ -32,10 +32,10 @@ class Calculate extends Component {
       render() {
         return (
           <div>
-          <Display func={this.state.interest} text="INTEREST RATE" />
+          <Display func=<p>{this.state.interest} %</p> text="INTEREST RATE" />
           <Display
-          func={this.state.payment}
-          text=" REPAYMENT IN $" />
+          func=<p>$ {this.state.payment}</p>
+          text=" EMI" />
           </div>
           );
       }
