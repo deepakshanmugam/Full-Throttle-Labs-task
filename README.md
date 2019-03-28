@@ -4,8 +4,8 @@
   <div align="center">
  <img src="/Screenshot/demo.PNG" width="800px"</img> 
 </div><br>
-  
-<b>npm i (recommended)</b><br>
+    <p>executing the following commands the application can be deployed in your local machine</p> 
+  <b>npm i (recommended)</b><br>
 To download the necessary dependencies.
 
 <b>npm start</b><br>
