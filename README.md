@@ -5,6 +5,8 @@
  <img src="/Screenshot/demo.PNG" width="800px"</img> 
 </div><br>
     <p>Executing the following commands the application can be deployed in your local machine</p> 
+    <b>Repository</b><br>
+    <p>Clone or Download the repository into your local machine</p><br><br>
   <b>npm i (recommended)</b><br>
 To download the necessary dependencies.<br><br>
 <b>npm start</b><br>
