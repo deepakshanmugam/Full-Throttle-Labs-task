@@ -35,7 +35,7 @@ class Calculate extends Component {
           <Display func=<p>{this.state.interest} %</p> text="INTEREST RATE" />
           <Display
           func=<p>$ {this.state.payment}</p>
-          text=" EMI" />
+          text=" MONTHLY PAYMENT" />
           </div>
           );
       }
