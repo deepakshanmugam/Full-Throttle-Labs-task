@@ -6,8 +6,7 @@
 </div><br>
     <p>Executing the following commands the application can be deployed in your local machine</p> 
   <b>npm i (recommended)</b><br>
-To download the necessary dependencies.<br>
-
+To download the necessary dependencies.<br><br>
 <b>npm start</b><br>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
