@@ -10,5 +10,5 @@ To download the necessary dependencies.<br><br>
 <b>npm start</b><br>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.<br><br>
-<b>Hosted URL</b><br>
-https://full-throttle-task.herokuapp.com/
+<b>Live Demo</b><br>
+    <a href="https://full-throttle-task.herokuapp.com/">CLICK HERE!</a>
